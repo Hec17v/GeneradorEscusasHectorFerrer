@@ -1,5 +1,11 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+/*@import "bootstrap/dist/css/bootstrap.min.css";*/
 
 body{
     background: white;
 }
+
+   div {
+        margin-top: 15%;
+        background-color: rgb(219, 230, 226);
+        text-align: center; 
+   }
